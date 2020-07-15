@@ -1,0 +1,171 @@
+<h nt"JP" nr"JP011">
+
+<Part 1>
+
+
+1: hello 
+2: hello 
+1: my name is <full name> may I have your name please 
+2: my name is <full name> 
+1: <first name> how are you today 
+2: (mm) fine how are you today 
+1: I'm fine thank you okay (er) I know you are a student can you tell me about your school 
+2: school 
+1: (mhm) 
+2: (mm) I am a Showa University student my major is English literature 
+1: (mm) 
+2: but my course is linguistics so I study a linguistics (mm) 
+1: how did you get interested in linguistics 
+2: (mm) because I like grammar 
+1: (mm) 
+2: so I'm interested in linguistic[s 
+1:  (uhu) I see so where is the school 
+2: (mm) in Tokyo 
+1: okay and (er) could you tell me how you get to school everyday 
+2: (er) I take a bicycle 
+1: (mm) 
+2: it takes (mm) (mm) fifteen minutes by bicycle 
+1: (uhu) where do you live 
+2: I live in Setagaya 
+1: (mm) could you tell me about your neighborhood a little bit 
+2: neighborhood 
+1: (uhu) 
+2: (mhm) Setagaya is (mm) . almost is house  house building 
+1: (mm) 
+2: and very quiet . (mm) so it . (mm) it is good to live in there 
+1: (uhu) so you live with your family 
+2: no alone 
+1: (mm) okay can you tell me about the place you live 
+2:  place 
+1:  (uhu) you live alone 
+2: yes 
+1: yes and then could you tell me about your apartment 
+2: oh (eh) (mm) my apartment is (mm) two  two floor (eh)  second floor and I live in first floor 
+1: (mm) 
+2: and my next to apartment is (mm)  (mm) <foreign> nandakke kanrinin-san </foreign>  (mm) . (mm) the women who rend me the  apartment 
+1:  (er) okay 
+2: yeah 
+1: (uhu) 
+2: she is very kind to us 
+1: (mm) 
+2: (mm) 
+1: good so (er) where is your fa  (er) family? 
+2: (er) (er) my family live in Gumma 
+1: (er) I see could you tell me about your family little bit 
+2: (er) (mm) my father is (mm) office worker 
+1: (mm) 
+2: and my mother is housekeeper my brother is (mm) my brother is worker 
+1: (uhu) 
+2:  and my grandfather and my grandmother 
+1: (uhu) I see (er) how is the life in Tokyo different from your hometown 
+2: (mm) in Gumma 
+1: (mm) 
+2: we have to have (mm) car by (mm) individual because (mm) the traffic is not good so in Tokyo I think it is very (mm) convenient to take traffic 
+1: (uhu) 
+2: (mm) 
+1: I see so which do you like better to live in Tokyo or in Gumma 
+2: (mhm) I think (mm) to live in Gumma is good 
+1: (mm) 
+2:  better 
+1: why is it 
+2: (er) because Tokyo is too crowded 
+1: (mm) 
+2: so I don't like it 
+1: (mm) 
+2: (mm) 
+1: I see and (er) do you have any hobbies 
+2: hobby (er) I am a belong to climb mountain club 
+1: (mhm) 
+2: yes 
+1: (mm) at school 
+2: yes 
+1: oh where have you been (er) where have you gone for climbing  
+2: (mm) in summer vacation (mm) I went to Iide 
+1: (mm) 
+2: (er) in Tohoku and (mm) ... (mm) . I forget 
+1: (mm) 
+2:  forgot <laugh> 
+1: okay <foreign> hai </foreign> (er) so where would be (er) a place to recommend  
+2: where 
+1: (mm) 
+2: (mm) it's (mm) Iide .. (mm) because the weather was very bad  bad condition so (mm) 
+1: Thank you okay good 
+
+<Part 2>
+
+
+1: now (er) I would like to do two things with you today okay and the first is <showing the first sheet to the interviewee> I would like to have a short conversation with you about one of these three topics so please take a look at these topics choose one and try to speak for three to five minutes about the topic you choose 
+2: <thinking quietly for about 15 seconds> I took Three 
+1: (uhu) 
+2: (mm) . do you know Shine 
+1: (er) I've heard of it 
+2: (er) I watch the film (mm) 
+1: (mm) 
+2: three times   
+1:  yeah 
+2: first and second times is Boston and third time is in Japan (mm) (mm) . in film 
+1: (mm) 
+2: I (mm) I learned (mm) .. father's (mm) treat . (mm) . (mm) ... (mm) .. I think family is important but (mm) it is also important to think about myself individuality and identity (mm) <foreign> etto </foreign> (mm) . it is not good to sacrifice  sacrifice myself for my family (mm)  do you understand 
+1: (uhu) (uhu) so what you learned from the film 
+2: (mm) (mm) to  to have a will 
+1: (mm) 
+2: (mm) it is important 
+1: (mm) 
+2: (mm) 
+1: (er) and who is on the film the actor or actress  
+2: Geoffrey Rush 
+1: (mm) 
+2: Maybe 
+1: (uhu) 
+2: (mm) 
+1: did you like the actor 
+2: yeah (mm) 
+1: why 
+2: why 
+1: (mhm) 
+2: because actor (mm) acted very well 
+1: (mm) 
+2: (mm) 
+1: I see okay right (er) what others  other films do you like 
+2: (mhm) I like Speed 
+1: uh-um 
+2: one the film is very (mm) (mm) active and I could enjoy very much 
+1: (mhm) 
+2: (mm) 
+1: (er) which do you like better to rent a video or go to a theater 
+2: (er) going to a theater (mm) 
+1: (mm) how come 
+2: (er) because (mm) . in theater 
+1: (mm) 
+2: I can watch with another people 
+1: (mm) 
+2: and big big (mm) ... big ... big  big ... vision 
+1: (uhu) 
+2: (mm) 
+1: okay good good thank you 
+
+1: okay and (er) do you like drawing or going to museum 
+2: (mm) going to museum 
+1: (mm) 
+2: (mm) 
+1: ca  can you tell me about the last time you went to the museum 
+2: (er) I went to . Yasuda Kasai Museum 
+1: (uhu) 
+2: and I watched the (mm) Gogh's exhibition (mm) 
+1: (mhm) what was some good point 
+2: (er) I watched the (mm) .. sunflower 
+1: (uhu) 
+2: (mm) very big picture 
+1: (uhu) 
+2: and famous (mm) .. I was very impressioned 
+1: (mm) 
+2: (mm) 
+1: okay good thank you 
+2: thank you 
+1: this is all 
+2: oh 
+1: you are finished 
+2: thank you very much 
+1: thank you very much 
+2: (mm) 
+

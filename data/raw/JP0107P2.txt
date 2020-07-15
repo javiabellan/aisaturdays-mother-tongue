@@ -1,0 +1,27 @@
+<h nt"JP" nr"JP007">
+
+<Part 1>
+
+
+1: hello 
+2: hello 
+1: hi my name is <full name> what is your name 
+2: my name is <full name> 
+1: <first name> 
+2: <foreign> hai </foreign> 
+1: how are you today 
+2: (erm) I'm fine thank you and you 
+1: I'm fine thank you . I know you are a student but would you please tell me about . your school 
+2: (erm) . our school .. (eh) name or . 
+1: (mhm) anything 
+2: my school is Showa Wome Women's University .. (eh) ... and I . I . I I belong to . English English American literature and I'm third grade .. and .. my school is . my school has (erm) ... my school has a . really five thousands or .. there are many native . native speaker teacher and . we can .. we can take other other course other course classes 
+1: (eh) okay (mhm) okay (eh) could you tell me what you study 
+2: (mm) . I study English English (eh) . linguistics 
+1: (mhm) how do you like it 
+2: (eh) .. especially I study (eh) English English teaching how how to teach or something and I I want to be a teacher so it it's useful I think and I like I like native speaker's class and . it's so it's so hard to hear and understand but . my speaking is so poor but (eh) .. before I entered this sch this university . but I . (eh) when I when I come came to this university and I hear I hear a lot of English so maybe I I think my my my spea my speaking ability be became good . <laugh> better than .. before 
+1: great great okay now (eh) . would you tell me about your family a little bit 
+2: family 
+1: (mhm) 
+2: (eh) my my father . (er) .. my family consists of my father and my mother and my sister and my father work works at Takasaki so he he lives alone and he . he he came back home (em) .. a day two days in a week so I . I can't (mm) see him every day and my mother works at hospital and she she works she works desk work and . but but this is (eh) part time job so she . she can house working so . but it's her .. (em) and my sister is nineteen years old and she she go to . she go to (eh) Toyo University Toyo Toyo College  and .. (eh) to . (eh) and she ... 
+1: okay I  see .. 
+2:  she also study English 

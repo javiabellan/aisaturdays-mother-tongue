@@ -1,0 +1,44 @@
+<h nt"JP" nr"JP018">
+
+<Part 1>
+
+
+1: hello 
+2: hello 
+1: my name is <full name> may I have your name please 
+2: yes my name is <full name> 
+1: <first name> how are you today 
+2: fine thank you and you 
+1: I'm fine thank you okay (erm) .. I know you are a student . could you tell me about what you study 
+2: <foreign> etto </foreign> .. I study (mm) .. English  itself language <foreign> untto </foreign> .. my major is (eh) 
+1:  (mhm) 
+2: <foreign> untto </foreign> second language acquisition from this semester 
+1: okay and (eh) . what kind of courses are you taking 
+2: courses .. (mm) .. English 
+1: so you have all English classes 
+2: (eh) linguistics (eh) . I take linguistic course 
+1: okay I see how did you get interested in linguistics 
+2: <foreign> etto </foreign> I .. I think to study about ling linguistic (mm) .. (mm) . I . can ... (eh) to study linguistic is useful for me to achieve my English skill 
+1: (uhu) . good okay could you tell me about your family 
+2: <foreign> unto .. unto .. </foreign> I have four family member <foreign> eeto </foreign> my father mother and sister .. <foreign> etto </foreign> my father is official officer and my mother learn learns tea ceremony .. my sister is high school student 
+1: and do you live with your family now 
+2: no .. <foreign> etto </foreign> I rent apartment . I live alone 
+1: how do you like living alone 
+2: <foreign> untto </foreign> ... it is . (eh) to live alone is comfortable because ... (mm) . I .. I don't need worrying about my parents 
+1: (mm) I see . and do you have any hobbies 
+2: (mm) .  not especially  but (mm) ... like music so (mm) .. in room . I . I listen to music everyday 
+1: (erm) what do you do when you do not go to school 
+2: (mm) . in weekend <cough> I usually go shopping .. or shopping or (mm) .. I meet with my friends ... (mm) . not weekend . I go  karaoke many times  
+
+<Part 2>
+
+1: good . okay thank you . now I'd like to do two things with you today . okay the first is please take a look these topics . <showing the first sheet to the interviewee> and please choose one . and try to speak about the topic for two or three minutes 
+2: <foreign> untto </foreign> .. (mm) I choose topic one . <foreign> untto </foreign> .. (mm) my important experience is . to go to Boston last year <foreign> unnto </foreign> .. it was my first time to go abroad so .. <foreign> untto </foreign> everything is fresh for me .. was fresh for me <foreign> untto </foreign> .. (mm) .. I could go many places in America <foreign> untto </foreign> New York Washington (mm) .. New . Jersey and so  on .. and <foreign> untto </foreign> .. I could 
+1:  I see 
+2: make new friends and .. yes 
+1: okay good good . and did you go to school in Boston 
+2: a yes <foreign> untto </foreign> .. to . I live lived in dormitory and .. (mm) school (eh) there there were . also school in same place so (mm) .. it it was convenience 
+1: (mm) I see . okay did you see any differences between the school you went in Boston and the school here 
+2: yes <foreign> untto </foreign> .. the school in (eh) in Boston is . is much better than in Japan <foreign> untto </foreign> .. they . it has less school rule and .. (mm) .. and I could do things without thinking about other people . so .  I enjoyed it  
+
+

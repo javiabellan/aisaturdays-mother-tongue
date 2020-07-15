@@ -1,0 +1,92 @@
+<h nt"JP" nr"JP011">
+
+<Part 1>
+
+
+1: hello 
+2: hello 
+1: my name is <full name> may I have your name please 
+2: my name is <full name> 
+1: <first name> how are you today 
+2: (mm) fine how are you today 
+1: I'm fine thank you okay (er) I know you are a student can you tell me about your school 
+2: school 
+1: (mhm) 
+2: (mm) I am a Showa University student my major is English literature 
+1: (mm) 
+2: but my course is linguistics so I study a linguistics (mm) 
+1: how did you get interested in linguistics 
+2: (mm) because I like grammar 
+1: (mm) 
+2: so I'm interested in linguistic[s 
+1:  (uhu) I see so where is the school 
+2: (mm) in Tokyo 
+1: okay and (er) could you tell me how you get to school everyday 
+2: (er) I take a bicycle 
+1: (mm) 
+2: it takes (mm) (mm) fifteen minutes by bicycle 
+1: (uhu) where do you live 
+2: I live in Setagaya 
+1: (mm) could you tell me about your neighborhood a little bit 
+2: neighborhood 
+1: (uhu) 
+2: (mhm) Setagaya is (mm) . almost is house  house building 
+1: (mm) 
+2: and very quiet . (mm) so it . (mm) it is good to live in there 
+1: (uhu) so you live with your family 
+2: no alone 
+1: (mm) okay can you tell me about the place you live 
+2:  place 
+1:  (uhu) you live alone 
+2: yes 
+1: yes and then could you tell me about your apartment 
+2: oh (eh) (mm) my apartment is (mm) two  two floor (eh)  second floor and I live in first floor 
+1: (mm) 
+2: and my next to apartment is (mm)  (mm) <foreign> nandakke kanrinin-san </foreign>  (mm) . (mm) the women who rend me the  apartment 
+1:  (er) okay 
+2: yeah 
+1: (uhu) 
+2: she is very kind to us 
+1: (mm) 
+2: (mm) 
+1: good so (er) where is your fa  (er) family? 
+2: (er) (er) my family live in Gumma 
+1: (er) I see could you tell me about your family little bit 
+2: (er) (mm) my father is (mm) office worker 
+1: (mm) 
+2: and my mother is housekeeper my brother is (mm) my brother is worker 
+1: (uhu) 
+2:  and my grandfather and my grandmother 
+1: (uhu) I see (er) how is the life in Tokyo different from your hometown 
+2: (mm) in Gumma 
+1: (mm) 
+2: we have to have (mm) car by (mm) individual because (mm) the traffic is not good so in Tokyo I think it is very (mm) convenient to take traffic 
+1: (uhu) 
+2: (mm) 
+1: I see so which do you like better to live in Tokyo or in Gumma 
+2: (mhm) I think (mm) to live in Gumma is good 
+1: (mm) 
+2:  better 
+1: why is it 
+2: (er) because Tokyo is too crowded 
+1: (mm) 
+2: so I don't like it 
+1: (mm) 
+2: (mm) 
+1: I see and (er) do you have any hobbies 
+2: hobby (er) I am a belong to climb mountain club 
+1: (mhm) 
+2: yes 
+1: (mm) at school 
+2: yes 
+1: oh where have you been (er) where have you gone for climbing  
+2: (mm) in summer vacation (mm) I went to Iide 
+1: (mm) 
+2: (er) in Tohoku and (mm) ... (mm) . I forget 
+1: (mm) 
+2:  forgot <laugh> 
+1: okay <foreign> hai </foreign> (er) so where would be (er) a place to recommend  
+2: where 
+1: (mm) 
+2: (mm) it's (mm) Iide .. (mm) because the weather was very bad  bad condition so (mm) 
+1: Thank you okay good 

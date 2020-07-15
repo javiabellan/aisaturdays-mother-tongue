@@ -1,0 +1,96 @@
+<h nt"JP" nr"JP010">
+
+<Part 1>
+
+
+1: hello 
+2: hello 
+1: hi my name is <full name> what is your name 
+2: my name is <full name> 
+1: <first name> how are you today 
+2: I'm fine . and you 
+1: I'm fine thank you great (eh) . I know you are a  student 
+2:  yes 
+1: would you please tell me about your school 
+2: (erm) . I am Showa Women's University student and my major is En English  language 
+1:  (mhm) 
+2: and .. (erm) .. there're about one hundred and eighty students in (erm) .. I see .. junior year .. and I'm in junior year 
+1: (er) . I see . (erm) . what are some .. point you like about the school 
+2: (eh) .. I like .. (em) (er) .. my university when I was in second grade I went to Boston and our school we have Boston program so I like it very much 
+1: I see could you tell me about the program a little more 
+2: (er) .. yes (em) .. (er) I went to Boston about three months and  half 
+1:  (mhm) 
+2: and I stayed with my  friends 
+1:  (mhm) 
+2: (eh) I learned English and culture with my  friends 
+1:  (mm) 
+2: and there are many American  teachers 
+1:  (mm) I see so you enjoyed the program 
+2: yes  very much 
+1:  ok good good now (er) .. could you please tell me about your family 
+2: yes (erm) there are three people in my  family 
+1:  (mhm) 
+2: father and mother and  me 
+1:  (mhm) 
+2: and my father is forty six years  old 
+1:  (mhm) 
+2: he is a teacher at junior high  school 
+1:  (mhm) 
+2:  in Tokyo and my mother is forty four years old and she is house wife 
+1: okay and are you (eh) only child 
+2: yes  
+1: how do you like (er) .. being an on only child 
+2:   (er) ..  
+1:   
+2: (er) .. when I was a child I want brother 
+1: why why is it   
+2:   because (er) .. I want . (er) the person . who play with me in  in my house and it's not my mother or  father just like same 
+1:  (mm) (mm)  (mm) .. (mm) 
+2: age so I want  brother 
+1:  (mhm) 
+2: but (er) .. now I think only child is good  
+1: (mhm) why 
+2: (eh) .. because I can  use my room whenever I want   
+1:  (eh)  (eh) I see I see 
+2: and I can use my  house (er) like for example  TV 
+1:  (eh)  (mhm) 
+2: there are (er) many friends who  quarrel with his or  her 
+1:  (eh)  (eh) 
+2: brother or  sister so I think (mm) .. I can use something wha whenever 
+1:  (eh) 
+2: I want so I like it very much 
+1:  okay all right (er) .. what about your free time what do usually do when your (eh) .. when you do not have school 
+2: (erm) .. many . (eh) many days (eh) I spend time with my family or friends and . for example when I spend time with my friends I went to shopping  and . when I spend with my family . I I can drive my car so I . took my mother to my grandparents' house and I spend I I talking with my families 
+1: I see do you have any hobbies 
+2: (eh) yeah I like music very much and .. I <cough> I'm joining in band and I'm  singing 
+1:  (mm) . wow 
+2: so I like singing songs very much 
+1: I see . how how did you get interested in singing 
+2: (eh) .. because when I was (eh) junior and senior high school I joined green club . and I was a conductor 
+1: oh 
+2: so I . I feel the . I feel musics music . is very (eh) calm calm so . and if when I I sing songs somebody hearing it . they became very peaceful so I like it very much 
+
+<Part 2>
+
+
+1: I see . good thank you for telling me okay now (erm) I have two things to do with you  today . yes 
+2:  yes 
+1: <showing the first sheet to the interviewee> first is (mm) .. I would like to have a small conversation with you about one of the three topics here please take a look at this and then please choose a topic you want to talk about and please try to speak for three to five  minutes 
+2:  okay <thinking quietly for about 10 seconds> 
+1: okay 
+2: all right I I want to say about topic two 
+1: okay 
+2: (erm) when I was a child . when I was four years old .. I went to Burma with my family because my . I told you that my father is was is a teacher and (eh) she he wanted to teach (eh) teach to Japanese to who are living in other country so he took test and he decided to go to Burma . so my (eh) . my mother and I went to Burma with him and I stayed there three years and I went to Japanese school two years and American school one year . (mm) and when I I was was in elementary school Japanese school there were only six people in one class and I spend (erm) .. much time to learning many subject by not using text book just like playing games or talking with friends like that . so it was (erm) .. interesting for me and I what I impressed very much is .. (mm) .. their culture when I went to market with my mother and father there were many things .. (erm) there were many things that I haven't seen like the face of  pig or cows  it was (eh) .. 
+1:  (mhm) 
+2: very unusual for me for . not for me but all Japanese people Japanese (em) . and .. what .. yeah and I that . I tell you that I told you I went to American school there were many people from man many child who is from many country not only Burma or America the United States like they were from South Africa or . Italy England so .. I played with them and learned some English just a few words but it it was a very good experience for  me that's  all 
+1:  I see  okay good  I have a question 
+2: okay  
+1: okay  you mentioned that (eh) .. in your school in  Burma you have 
+2:  yes 
+1: lots of friends with lots of different cultural  background here in Japan we have 
+2:  yes 
+1: just Japanese  students okay would you compare (eh) . the different (eh) the 
+2:  yeah 
+1: two different groups how are the students different 
+2:  (eh) . in Burma . they .. they are . they are . they express about their culture in school or when whenever or wherever but in Japan this this university . they have the same background and they sometimes don't say their feelings or . (mm) what what they are thinking about but in Burma they say many things when they think something or . (mm) whatever they want to say .. so I like it very much 
+

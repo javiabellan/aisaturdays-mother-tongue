@@ -1,0 +1,71 @@
+<h nt"JP" nr"JP010">
+
+<Part 1>
+
+
+1: hello 
+2: hello 
+1: hi my name is <full name> what is your name 
+2: my name is <full name> 
+1: <first name> how are you today 
+2: I'm fine . and you 
+1: I'm fine thank you great (eh) . I know you are a  student 
+2:  yes 
+1: would you please tell me about your school 
+2: (erm) . I am Showa Women's University student and my major is En English  language 
+1:  (mhm) 
+2: and .. (erm) .. there're about one hundred and eighty students in (erm) .. I see .. junior year .. and I'm in junior year 
+1: (er) . I see . (erm) . what are some .. point you like about the school 
+2: (eh) .. I like .. (em) (er) .. my university when I was in second grade I went to Boston and our school we have Boston program so I like it very much 
+1: I see could you tell me about the program a little more 
+2: (er) .. yes (em) .. (er) I went to Boston about three months and  half 
+1:  (mhm) 
+2: and I stayed with my  friends 
+1:  (mhm) 
+2: (eh) I learned English and culture with my  friends 
+1:  (mm) 
+2: and there are many American  teachers 
+1:  (mm) I see so you enjoyed the program 
+2: yes  very much 
+1:  ok good good now (er) .. could you please tell me about your family 
+2: yes (erm) there are three people in my  family 
+1:  (mhm) 
+2: father and mother and  me 
+1:  (mhm) 
+2: and my father is forty six years  old 
+1:  (mhm) 
+2: he is a teacher at junior high  school 
+1:  (mhm) 
+2:  in Tokyo and my mother is forty four years old and she is house wife 
+1: okay and are you (eh) only child 
+2: yes  
+1: how do you like (er) .. being an on only child 
+2:   (er) ..  
+1:   
+2: (er) .. when I was a child I want brother 
+1: why why is it   
+2:   because (er) .. I want . (er) the person . who play with me in  in my house and it's not my mother or  father just like same 
+1:  (mm) (mm)  (mm) .. (mm) 
+2: age so I want  brother 
+1:  (mhm) 
+2: but (er) .. now I think only child is good  
+1: (mhm) why 
+2: (eh) .. because I can  use my room whenever I want   
+1:  (eh)  (eh) I see I see 
+2: and I can use my  house (er) like for example  TV 
+1:  (eh)  (mhm) 
+2: there are (er) many friends who  quarrel with his or  her 
+1:  (eh)  (eh) 
+2: brother or  sister so I think (mm) .. I can use something wha whenever 
+1:  (eh) 
+2: I want so I like it very much 
+1:  okay all right (er) .. what about your free time what do usually do when your (eh) .. when you do not have school 
+2: (erm) .. many . (eh) many days (eh) I spend time with my family or friends and . for example when I spend time with my friends I went to shopping  and . when I spend with my family . I I can drive my car so I . took my mother to my grandparents' house and I spend I I talking with my families 
+1: I see do you have any hobbies 
+2: (eh) yeah I like music very much and .. I <cough> I'm joining in band and I'm  singing 
+1:  (mm) . wow 
+2: so I like singing songs very much 
+1: I see . how how did you get interested in singing 
+2: (eh) .. because when I was (eh) junior and senior high school I joined green club . and I was a conductor 
+1: oh 
+2: so I . I feel the . I feel musics music . is very (eh) calm calm so . and if when I I sing songs somebody hearing it . they became very peaceful so I like it very much 

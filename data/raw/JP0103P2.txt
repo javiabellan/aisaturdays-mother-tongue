@@ -1,0 +1,32 @@
+<h nt"JP" nr"JP003">
+
+<Part 1>
+
+
+1: hello my name is <full name> what's your name please 
+2: my name is <full name> 
+1: hi nice to meet you <first name> 
+2: nice to meet you 
+1: how are you today 
+2: fine thank you and you 
+1: fine thank you okay can you tell me a little bit about yourself 
+2: about myself 
+1: yup 
+2: well .. (em) I was born in Tokyo . in nineteen ninety seven . nineteen seventy seven . and now I'm twenty years old . and .. and . I my hobby is . cooking and reading or listening to the music and swimming skiing . I don't know I like to do many things .. (mm) .. well . and 
+1: and 
+2: I like English 
+1: okay 
+2: <giggle> 
+1: tell me why do like English 
+2: because . (em) .. well . I like .. (em) American people . when I was junior high student . my native speaker is an American was American and h his way of living his culture yeah I like the way of Americans live 
+1: (mhm) 
+2: well .. (em) ... it's so different from as we live and as they live so I'm interested in that life and so if we learn that culture I we have to learn English <giggle> 
+1: so have you ever been to any foreign countries 
+2: yes I went to America twice 
+1: (mhm) 
+2: and Australia 
+1: okay tell me more about the trip 
+2: trip 
+1: (mhm) 
+2: yes well .. when I was twe no fourteen I went to Seattle .. as a ... <foreign> gakuryo </foreign> (em) .. to study English . and last year I went to Boston . and this summer vacation I went to Australia . with my friend <giggle> 
+

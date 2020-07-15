@@ -1,0 +1,57 @@
+<h nt"JP" nr"JP009">
+
+
+<Part 1>
+
+
+1: hello 
+2: hello 
+1: my name is <full name> may I have your name please 
+2: my name is <full name> 
+1: <first name> . how are you today 
+2: (eh)  fine thank you  
+1: okay good thank you for coming okay (eh) first would you tell me about your family 
+2: okay <foreign> etto </foreign> .. there are four people .. (mm) my father mother and my  sister . 
+1:  (mhm) 
+2: my father works for . city hall and my mother works for .. banks (eh) bank my sister is high school student .. and she belongs to a volleyball club 
+1: I see so do you live with with your family now 
+2: no 
+1: so you live live live alone 
+2: I live eh I live alone 
+1: okay can you tell me about the place you live in now 
+2: yes <foreign> etto </foreign> .. I live in Sangenjaya ... 
+1: are you in a dormitory 
+2: no ... I live in . a small apartment 
+1: (mhm) ... how do you like (eh) .. living alone 
+2: (eh) .. first I . I was very loneliness but now I . I'm enjoying (eh) I enjoy my . life .. 
+1: what points do you enjoy . living . by yourself 
+2: ... <foreign> etto </foreign> ... many many many  friends . visit . my house .. and we eat .  dinner ..  together 
+1:  (mm) ..  (mhm)  (mhm) . (mm) do you cook 
+2: yes 
+1: what is your (eh) favorite 
+2: (eh) I like Japanese food . and I (eh) so I I make . Japanese food 
+1: can you tell me about your most successful meal . you ever prepared 
+2: (eh) . when . when my friends birthday . I made . I made Japanese food for her . she .. she said . it is very delicious 
+1: (mm) .. okay good and (eh) do you have any hobbies 
+2: I like skiing .. my . (eh) I'm from Iwate so there are many snow . (eh) we have snow so .. when I was a child . my father .. tooks .. (mm) tooks me .. skiing 
+1: (mm) .. so do you have a plan . to go skiing this winter 
+2: yes 
+1: (mm) . where are you going 
+2: Zao I I'm going to Zao ski trip 
+1: okay can you tell me about the plans a little more 
+2: this winter 
+1: (mm) about ski trip . what do you plan to do 
+2: I'm going to ski with my family . my family .. <foreign> etto </foreign> is going to Zao by a by . their car from Iwate .. but I'm going to ski . by Yamagata <foreign> Shinkansen </foreign> .. from Tokyo 
+
+<Part 2>
+
+
+1: (mhm) .. I see .. okay . good . thank you now I have two things to do with you today . the first is this . <showing the first sheet to the interviewee> I would like to have a short conversation with you about one of these three topic . so please take a look at them and choose one and please try to speak for three to five minutes . about one of these topics . 
+2: okay <thinking quietly for about 20 seconds> 
+1: are you ready . okay 
+2: topic two ...
+1: (mhm) 
+2: I visited Hakodate . with my friend . two years ago ... many many friends visited Hakodate . (eh) as a school trip . but my my school didn't go Hakodate as . as the school trip so we wanted to go Hakodate .. and .. I I . I was very impressed with ... with .. war warm warmful ... warm people <sigh> because we . we used taxi and .. the taxi driver .. (eh) took . took pictures for us . and he introduced about Hakodate very . very kind he's he was very kind .. <longer pause> at hotel .. one ... I I I forgot . handkerchief at din dinning room . and .. when when we were going to leave the place . one woman said you forgot handkerchief . she was very kind .. 
+1: okay I see good yeah I think Tokyo and Hakodate are both big cities . but did you see any differences or similarities between Tokyo and Hakodate 
+2: (em) .. I found . difficult (eh) <foreign> ja nakutte </foreign> difference ... I think . in Tokyo people .. very cool cool .. <someone entering the room suddenly> 
+

@@ -1,0 +1,44 @@
+<h nt"JP" nr"JP009">
+
+
+<Part 1>
+
+
+1: hello 
+2: hello 
+1: my name is <full name> may I have your name please 
+2: my name is <full name> 
+1: <first name> . how are you today 
+2: (eh)  fine thank you  
+1: okay good thank you for coming okay (eh) first would you tell me about your family 
+2: okay <foreign> etto </foreign> .. there are four people .. (mm) my father mother and my  sister . 
+1:  (mhm) 
+2: my father works for . city hall and my mother works for .. banks (eh) bank my sister is high school student .. and she belongs to a volleyball club 
+1: I see so do you live with with your family now 
+2: no 
+1: so you live live live alone 
+2: I live eh I live alone 
+1: okay can you tell me about the place you live in now 
+2: yes <foreign> etto </foreign> .. I live in Sangenjaya ... 
+1: are you in a dormitory 
+2: no ... I live in . a small apartment 
+1: (mhm) ... how do you like (eh) .. living alone 
+2: (eh) .. first I . I was very loneliness but now I . I'm enjoying (eh) I enjoy my . life .. 
+1: what points do you enjoy . living . by yourself 
+2: ... <foreign> etto </foreign> ... many many many  friends . visit . my house .. and we eat .  dinner ..  together 
+1:  (mm) ..  (mhm)  (mhm) . (mm) do you cook 
+2: yes 
+1: what is your (eh) favorite 
+2: (eh) I like Japanese food . and I (eh) so I I make . Japanese food 
+1: can you tell me about your most successful meal . you ever prepared 
+2: (eh) . when . when my friends birthday . I made . I made Japanese food for her . she .. she said . it is very delicious 
+1: (mm) .. okay good and (eh) do you have any hobbies 
+2: I like skiing .. my . (eh) I'm from Iwate so there are many snow . (eh) we have snow so .. when I was a child . my father .. tooks .. (mm) tooks me .. skiing 
+1: (mm) .. so do you have a plan . to go skiing this winter 
+2: yes 
+1: (mm) . where are you going 
+2: Zao I I'm going to Zao ski trip 
+1: okay can you tell me about the plans a little more 
+2: this winter 
+1: (mm) about ski trip . what do you plan to do 
+2: I'm going to ski with my family . my family .. <foreign> etto </foreign> is going to Zao by a by . their car from Iwate .. but I'm going to ski . by Yamagata <foreign> Shinkansen </foreign> .. from Tokyo 

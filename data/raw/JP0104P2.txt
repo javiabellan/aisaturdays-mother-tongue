@@ -1,0 +1,46 @@
+<h nt"JP" nr"JP004">
+
+<Part 1>
+
+
+1: hello 
+2: hi 
+1: hi my name is <full name> what is your name 
+2: my name is <full name> 
+1: <first name> 
+2: yes 
+1: how are you today 
+2: fine thank you and you 
+1: I'm fine thank you okay (erm) . I know you are student but would you tell me about yourself 
+2: myself 
+1: (mhm) ... anything 
+2: (erm) . I I I'm nineteen years old and my hobby is playing tennis 
+1: (mhm) .. 
+2: and I live in Chiba . Urayasu 
+1: okay 
+2: ... that's all 
+1: okay (erm) what do you study at school 
+2: (eh) I study English English linguistics course 
+1: (mhm) okay would you tell me about your school a little more 
+2: ... my school is womens' university ... (eh) I I enjoyed every school life ... 
+1: okay (erm) . you mention you live in Chiba right 
+2: yes 
+1: (eh) can you tell me how you get to school . from your home 
+2: home ... I take train and .. it has . ninety minutes take ... it very long . time to use to go to school 
+1: and where is your school 
+2: (eh) .. there is Setagaya <foreign> ku </foreign> Sangenjaya 
+1: (mhm) ... okay (eh) could you tell me about your hometown 
+2: (eh) I live in Urayasu . (mm) .. Urayasu (eh) (eh) Tokyo Disney Land so . my home near the Tokyo Disney Land many ... tourists visited visit my town . my ... (mm) 
+1: okay (eh) do you like to go to Tokyo Disney Land 
+2: yes I do 
+1: (mm) how often do you go there 
+2: tw twice a year 
+1: okay okay (eh) why do you like the Tokyo Disney Land 
+2: Tokyo Disney Land is very .. interesting place to play (mm) I think there is (erm) wonderful park for .. (mm) for from children to adult people 
+1: I see and (eh) what are your hobbies 
+2: my hobby  is 
+1:  (mhm) 
+2:  playing tennis 
+1: (mm) . how did you get interested in tennis 
+2: (mm) ... I belonged to tennis club (mm) . when I was junior high school student ... (mm) ... (mm) ... 
+

@@ -1,0 +1,60 @@
+<h nt"JP" nr"JP015">
+
+<Part 1>
+
+
+1: hello 
+2: hello 
+1: hi my name is <full name> (er) what is your name 
+2: my name is <full name> 
+1: <first name> how are you today 
+2: I'm fine thank you and you 
+1: I'm fine thank you okay good (er) now I know you're a student 
+2: yes 
+1: but would you please tell me about your school 
+2: <foreign> etto </foreign> (er) I (er) my school name is Showa Womens' University and that is in Sangenjaya and there are many majors and I take (er) English literature 
+1: (uhu) 
+2: (mm) (mm) I think my  my university (mm) famous 
+1: (uhu) 
+2: place famous place is a Hitomi Memorial Hall and (mm) many time (mm) many famous show or concert were (er) are taken place  
+1: (er) could you tell me about (er) some concerts you went to 
+2: (er) I went (mm) <foreign> Winne . Winne </foreign> ... some classic concerts 
+1: (uhu) 
+2: and al I also went to ballet concert 
+1: (uhu) 
+2: (mm) and some  sometime (mm) (mm) pop concert 
+1: (uhu) 
+2: were taken  taken  
+1:  I see good good (er) now (er) can you tell me about your family 
+2: (er) I don't have any brothers and sisters so my family is my father and my mother and me 
+1: (uhu) 
+2: and my father is (er) an acupuncture doctor and my mother is a house wife but sometimes she helps him 
+1: (uhu) I see so where do you live 
+2: <cough> I live in Komazawa 
+1: I see can you tell me about your neighborhood 
+2: (er) (mm) .. actually I moved there in this year 
+1: (uhu) 
+2: I (er) in June 
+1: (uhu) 
+2: so I don't know well 
+1: (uhu) 
+2: but (mm) . there is a Komazawa Park 
+1: (uhu) 
+2: near my house and . (mm) .. there is not (er) there are  is a very quiet place  
+1: (uhu) good good so you live with your family 
+2: yes 
+1: (er) I see so (er) what do you do when you do not have school 
+2: (er) I don't like stay in my house so I  I like sports so I play some sports especially tennis 
+1: (uhu) 
+2: I don't like winter so 
+1: (mm) 
+2: I didn't play (er) I didn't ski (mm)  (mm) I also like watching sports so I go to some sports events 
+1: I see how did you get interested in tennis 
+2: (er) (mm) my mother make me to go to tennis school 
+1: (mm) 
+2: and I started to play tennis 
+1: (mm) 
+2: elementary school 
+1: (mm) 
+2: and and <foreign> eetto </foreign> until junior high school I was participated  some tournament 
+1:  (uhu) (uhu) okay good 
